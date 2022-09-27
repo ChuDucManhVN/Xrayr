@@ -16,7 +16,7 @@ Nodes:
   -
     PanelType: "V2board" # Panel type: SSpanel, V2board, PMpanel, Proxypanel
     ApiConfig:
-      ApiHost: "https://manhchu.ml"
+      ApiHost: "https://manhchu.cf"
       ApiKey: "webhack4gbymanhchu"
       NodeID: 0000000000
       NodeType: V2ray # Node type: V2ray, Shadowsocks, Trojan, Shadowsocks-Plugin
