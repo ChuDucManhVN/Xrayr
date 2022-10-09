@@ -18,7 +18,7 @@ Nodes:
     ApiConfig:
       ApiHost: "http://manhchu.cf"
       ApiKey: "webhack4gbymanhchu"
-      NodeID: 0000000000
+      NodeID: 0
       NodeType: V2ray # Node type: V2ray, Shadowsocks, Trojan, Shadowsocks-Plugin
       Timeout: 30 # Timeout for the api request
       EnableVless: false # Enable Vless for V2ray Type
