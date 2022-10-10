@@ -1,7 +1,9 @@
 from time import sleep
 import subprocess
 import platform
+import os
 
+os.system('cls')
 print("███╗░░░███╗░█████╗░███╗░░██╗██╗░░██╗")
 print("████╗░████║██╔══██╗████╗░██║██║░░██║")
 print("██╔████╔██║███████║██╔██╗██║███████║")
@@ -13,7 +15,6 @@ print(" ")
 y=3
 
 while y==3:
-
     operating_sys = platform.system()
 
     def ping(ip):
